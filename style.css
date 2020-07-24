@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#top-text{
+  width: 60vw;
+  padding: 5vw;
+  border: 5vw solid blue;
+  background-color: yellow;
+}
+
+#top-image{
+    width: 25vw;
+}
+
+#bottom-text{
+    margin: 5vw;
+}
+
+    
+}
