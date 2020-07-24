@@ -5,19 +5,32 @@
 
 
 #top-text{
-  width: 60vw;
-  padding: 5vw;
-  border: 5vw solid blue;
-  background-color: yellow;
+   font: 5em;
+   width: 60vw;
+   padding: 5vw;
+   border: 5pt solid blue;
+   background-color: yellow;
 }
 
 #top-image{
     width: 25vw;
+    height: 25vh;
 }
 
 #bottom-text{
-    margin: 5vw;
+    margin: 5px;
+
 }
 
-    
+h1 {
+    font: 5rem;
 }
+
+div {
+    font: 60%;
+}
+
+
+
+
+
